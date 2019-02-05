@@ -2,4 +2,5 @@
 
 ## Contributors
 
+- Alice
 - Bob
